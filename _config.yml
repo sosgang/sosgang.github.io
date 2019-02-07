@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: Science of Science Gang
-description: A group of researchers around the Bologna area interested in Science of Science research and studies.
-logo: img/logo.png
+description: A group of scholars working in Bologna interested in Science of Science research and studies
+logo: assets/img/logo.png
+github: https://github.com/sosgang

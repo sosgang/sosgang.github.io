@@ -1,0 +1,32 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+header {
+    text-align: center;
+}
+
+a:hover {
+    font-weight: normal;
+    color: #b9302e;
+}
+
+.mem {
+    margin-bottom: 40px;
+}
+
+.mem img {
+    float: left;
+    border: 1px solid black;
+    max-width: 100px;
+    margin-right: 15px;
+}
+
+.mem p {
+    margin: 0px;
+}
+
+.mem p span {
+    color: #b9302e;
+}

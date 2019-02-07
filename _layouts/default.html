@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ "/" | absolute_url }}"><img src="{{site.logo | relative_url}}" alt="Logo" /></a></h1>
+
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+        <nav>
+            <a href="/index">Home</a>
+            -
+            <a href="/members">Members</a>
+            -
+            <a href="/publications">Publications</a>
+            -
+            <a href="/blog">Blog</a>
+        </nav>
+
+        <p class="view"><a href="{{ site.github }}">View SoS Gang on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+
+      </header>
+      <section>
+        <h1>{{ page.title }}</h1>
+
+        {{ content }}
+
+      </section>
+      <footer>
+        <p><small><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</small></p>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>

@@ -1,0 +1,52 @@
+- name: Angelo Di Iorio
+  orcid: 0000-0002-6893-7452
+  web: https://www.unibo.it/sitoweb/angelo.diiorio/en
+  affiliation: Department of Computer Science and Engineering, University of Bologna, Bologna, Italy
+  affiliation_url: http://www.cse.unibo.it/en
+  bio: Angelo Di Iorio holds a Ph.D. degree in Computer Science and he is Assistant Professor at the University of Bologna. He is expert of markup languages and document engineering, in particular his research is focused on design patterns for digital documents. His interests also include semantic publishing, versioning and diff-ing techniques, collaborative editing, Web technologies, formatting and pagination.
+  github: angelobo
+  email: angelo.diiorio@unibo.it
+  pic: assets/img/adi.png
+
+- name: Ivan Heibi
+  orcid: 0000-0001-5366-5194
+  web: https://www.unibo.it/sitoweb/ivan.heibi2/en
+  affiliation: Digital Humanities Advanced Research Centre, Department of Classical Philology and Italian Studies, University of Bologna, Bologna, Italy
+  affiliation_url: https://dharc.unibo.it
+  bio: Ivan Heibi is a Ph.D. candidate in Digital Humanities. The main topic of his studies is the application of Semantic Publishing technologies in the Science of Science research domain. His work focuses on Semantic Web (Linked Data) technologies, Semantic publishing and open citations.
+  github: ivanhb
+  twitter: ivanHeiB
+  email: ivan.heibi2@unibo.it
+  pic: assets/img/ih.jpeg
+
+- name: Silvio Peroni
+  orcid: 0000-0003-0530-4305
+  web: https://www.unibo.it/sitoweb/silvio.peroni/en
+  affiliation: Digital Humanities Advanced Research Centre, Department of Classical Philology and Italian Studies, University of Bologna, Bologna, Italy
+  affiliation_url: https://dharc.unibo.it
+  bio: Silvio Peroni holds a Ph.D. degree in Computer Science and he is Assistant Professor at the University of Bologna. He is an expert in document markup and semantic descriptions of bibliographic entities using OWL ontologies. He is one of the main developers of SPAR Ontologies (http://www.sparontologies.net), he is Director of OpenCitations (http://opencitations.net), and founding member of the Initiative for Open Citations (I4OC, https://i4oc.org).
+  github: essepuntato
+  twitter: essepuntato
+  email: silvio.peroni@unibo.it
+  pic: assets/img/sp.png
+
+- name: Andrea Giovanni Nuzzolese
+  orcid: 0000-0003-2928-9496
+  web: https://www.istc.cnr.it/en/people/andrea-nuzzolese
+  affiliation: Semantic Technology Laboratory, Institute of Cognitive Sciences and Technologies, National Research Council, Rome, Italy
+  affiliation_url: http://stlab.istc.cnr.it
+  bio: Andrea Giovanni Nuzzolese holds a Ph.D. degree in Computer Science and he is Researcher at the Italian National Research Council. His research interests concern knowledge extraction, ontology design patterns, Linked Data and Semantic Web. He is a co-founder of the ScholarlyData initiative, which is about the publication of scholarly data as Linked Data.
+  github: anuzzolese
+  twitter: andriry
+  email: andrea.nuzzolese@istc.cnr.it
+  pic: assets/img/an.jpeg
+
+- name: Francesco Poggi
+  orcid: 0000-0001-6577-5606
+  web: https://www.unibo.it/sitoweb/francesco.poggi5/en
+  affiliation: Department of Computer Science and Engineering, University of Bologna, Bologna, Italy
+  affiliation_url: http://www.cse.unibo.it/en
+  bio: Francesco Poggi holds a Ph.D. degree in Computer Science and he is Research Fellow at the University of Bologna. His research interests include reflective enterprise software architectures, information visualization, Semantic Web technologies, markup languages for complex documents, automatic processes of analysis and segmentation of documents.
+  github: fpoggi
+  email: francesco.poggi5@unibo.it
+  pic: assets/img/fp.jpg
