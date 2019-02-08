@@ -19,17 +19,6 @@
   email: ivan.heibi2@unibo.it
   pic: assets/img/ih.jpeg
 
-- name: Silvio Peroni
-  orcid: 0000-0003-0530-4305
-  web: https://www.unibo.it/sitoweb/silvio.peroni/en
-  affiliation: Digital Humanities Advanced Research Centre, Department of Classical Philology and Italian Studies, University of Bologna, Bologna, Italy
-  affiliation_url: https://dharc.unibo.it
-  bio: Silvio Peroni holds a Ph.D. degree in Computer Science and he is Assistant Professor at the University of Bologna. He is an expert in document markup and semantic descriptions of bibliographic entities using OWL ontologies. He is one of the main developers of SPAR Ontologies (http://www.sparontologies.net), he is Director of OpenCitations (http://opencitations.net), and founding member of the Initiative for Open Citations (I4OC, https://i4oc.org).
-  github: essepuntato
-  twitter: essepuntato
-  email: silvio.peroni@unibo.it
-  pic: assets/img/sp.png
-
 - name: Andrea Giovanni Nuzzolese
   orcid: 0000-0003-2928-9496
   web: https://www.istc.cnr.it/en/people/andrea-nuzzolese
@@ -40,6 +29,17 @@
   twitter: andriry
   email: andrea.nuzzolese@istc.cnr.it
   pic: assets/img/an.jpeg
+
+- name: Silvio Peroni
+  orcid: 0000-0003-0530-4305
+  web: https://www.unibo.it/sitoweb/silvio.peroni/en
+  affiliation: Digital Humanities Advanced Research Centre, Department of Classical Philology and Italian Studies, University of Bologna, Bologna, Italy
+  affiliation_url: https://dharc.unibo.it
+  bio: Silvio Peroni holds a Ph.D. degree in Computer Science and he is Assistant Professor at the University of Bologna. He is an expert in document markup and semantic descriptions of bibliographic entities using OWL ontologies. He is one of the main developers of SPAR Ontologies (http://www.sparontologies.net), he is Director of OpenCitations (http://opencitations.net), and founding member of the Initiative for Open Citations (I4OC, https://i4oc.org).
+  github: essepuntato
+  twitter: essepuntato
+  email: silvio.peroni@unibo.it
+  pic: assets/img/sp.png
 
 - name: Francesco Poggi
   orcid: 0000-0001-6577-5606
