@@ -19,6 +19,6 @@ title: Members
 ## Collaborators
 <div id="collaborators" class="mem">
 {% for collaborator in site.data.collaborators %}
-<p><strong>{{ collaborator.name }}</strong>, {{ collaborator.affiliation }}</p>
+<p><strong>{{ collaborator.name }}</strong>{% if collaborator.affiliation %}, {{ collaborator.affiliation }}{% endif %}</p>
 {% endfor %}
 </div>
