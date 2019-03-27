@@ -10,12 +10,14 @@
 - authors: Di Iorio A, Peroni S, Poggi F
   year: 2019
   title: "Open data to evaluate academic researchers: an experiment with the Italian Scientific Habilitation"
+  venue: "(To appear) Proceedings of the 17th International Conference on Scientometrics and Informetrics (ISSI 2019)"
   oa: https://arxiv.org/pdf/1902.03287
   arxiv: 1902.03287
 
 - authors: Heibi I, Peroni S, Shotton D
   year: 2019
   title: Crowdsourcing open citations with CROCI - An analysis of the current status of open citations, and a proposal
+  venue: "(To appear) Proceedings of the 17th International Conference on Scientometrics and Informetrics (ISSI 2019)"
   oa: https://arxiv.org/pdf/1902.02534
   arxiv: 1902.02534
 
@@ -33,7 +35,7 @@
 - authors: Di Iorio A, Limpens F, Peroni S, Rotondi A, Tsatsaronis G, Achtsivassilis J
   year: 2018
   title: Investigating Facets to Characterise Citations for Scholars
-  venue: Semantics, Analytics, Visualization - Proceedings  3rd International Workshop, SAVE-SD 2017, Perth, Australia, April 3, 2017, and 4th International Workshop, SAVE-SD 2018, Lyon, France, April 24, 2018, Revised Selected Papers
+  venue: Semantics, Analytics, Visualization - Proceedings 3rd International Workshop, SAVE-SD 2017, Perth, Australia, April 3, 2017, and 4th International Workshop, SAVE-SD 2018, Lyon, France, April 24, 2018, Revised Selected Papers
   pages: 150-160
   doi: 10.1007/978-3-030-01379-0_11
   oa: https://save-sd.github.io/2018/accepted/diiorio/index.html
