@@ -1,11 +1,23 @@
 - authors: Poggi F, Ciancarini P, Gangemi A, Nuzzolese AG, Peroni S, Presutti V
   year: 2019
   title: "Predicting the results of evaluation procedures of academics"
-  venue: PeerJ Preprints
-  volume: 7
-  pages: e27582v1
-  doi: 10.7287/peerj.preprints.27582
-  oa: https://doi.org/10.7287/peerj.preprints.27582
+  venue: PeerJ Computer Science
+  volume: 5
+  pages: e199
+  doi: 10.7717/peerj-cs.199
+  oa: https://doi.org/10.7717/peerj-cs.199
+
+- authors: Zhu Y, Yan E, Peroni S, Che C
+  year: 2019
+  title: "Nine Million Books and Eleven Million Citations: A Study of Book-Based Scholarly Communication Using OpenCitations"
+  oa: https://arxiv.org/pdf/1906.06039
+  arxiv: 1906.06039
+
+- authors: Heibi I, Peroni S, Shotton D
+  year: 2019
+  title: "COCI, the OpenCitations Index of Crossref open DOI-to-DOI citations"
+  oa: https://arxiv.org/pdf/1904.06052
+  arxiv: 1904.06052
 
 - authors: Di Iorio A, Peroni S, Poggi F
   year: 2019
@@ -31,6 +43,12 @@
   doi: 10.1007/s11192-018-2988-z
   oa: https://arxiv.org/pdf/1812.11813
   arxiv: 1812.11813
+
+- authors: Peroni S, Ciancarini P, Gangemi A, Nuzzolese AG, Poggi F, Presutti V
+  year: 2019
+  title: "The practice of self-citations: a longitudinal study"
+  oa: https://arxiv.org/pdf/1903.06142
+  arxiv: 1903.06142
 
 - authors: Di Iorio A, Limpens F, Peroni S, Rotondi A, Tsatsaronis G, Achtsivassilis J
   year: 2018
