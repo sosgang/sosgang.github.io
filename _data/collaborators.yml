@@ -1,3 +1,6 @@
+- name: Chao Che
+  affiliation: Key Laboratory of Advanced Design and Intelligent Computing, Ministry of Education, Dalian University, Dalian, China
+
 - name: Paolo Ciancarini
   affiliation: Department of Computer Science and Engineering, University of Bologna, Bologna, Italy
 
@@ -14,3 +17,9 @@
 
 - name: David Shotton
   affiliation: Oxford e-Research Centre, University of Oxford, Oxford, United Kingdom
+  
+- name: Erjia Yan
+  affiliation: College of Computing and Informatics, Drexel University, Philadelphia, USA
+  
+- name: Yongjun Zhu
+  affiliation: Department of Library and Information Science, Sungkyunkwan University, Seoul, Republic of Korea
