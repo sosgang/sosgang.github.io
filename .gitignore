@@ -2,3 +2,4 @@ script/
 docs/
 _site/
 .sass-cache/
+.idea/

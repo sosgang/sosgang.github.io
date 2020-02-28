@@ -1,3 +1,22 @@
+- authors: Peroni S, Shotton D
+  year: 2020
+  title: "OpenCitations, an infrastructure organization for open scholarship"
+  oa: https://doi.org/10.1162/qss_a_00023
+  arxiv: 1906.11964
+  venue: "Quantitative Science Studies"
+  volume: 1
+  issue: 1
+  pages: 428-444
+  doi: 10.1162/qss_a_00023
+
+- authors: Peroni S, Ciancarini P, Gangemi A, Nuzzolese AG, Poggi F, Presutti V
+  year: 2020
+  title: "The practice of self-citations: a longitudinal study"
+  oa: https://arxiv.org/pdf/1903.06142
+  arxiv: 1903.06142
+  venue: "Scientometrics"
+  doi: 10.1007/s11192-020-03397-6
+
 - authors: Poggi F, Ciancarini P, Gangemi A, Nuzzolese AG, Peroni S, Presutti V
   year: 2019
   title: "Predicting the results of evaluation procedures of academics"
@@ -9,46 +28,50 @@
 
 - authors: Zhu Y, Yan E, Peroni S, Che C
   year: 2019
-  title: "Nine Million Books and Eleven Million Citations: A Study of Book-Based Scholarly Communication Using OpenCitations"
+  title: "Nine million book items and eleven million citations: a study of book-based scholarly communication using OpenCitations"
   oa: https://arxiv.org/pdf/1906.06039
   arxiv: 1906.06039
+  venue: Scientometrics
+  volume: 122
+  issue: 2
+  pages: 1097-1112
+  doi: 10.1007/s11192-019-03311-9
 
 - authors: Heibi I, Peroni S, Shotton D
   year: 2019
-  title: "COCI, the OpenCitations Index of Crossref open DOI-to-DOI citations"
-  oa: https://arxiv.org/pdf/1904.06052
+  title: "Software review: COCI, the OpenCitations Index of Crossref open DOI-to-DOI citations"
+  oa: https://doi.org/10.1007/s11192-019-03217-6
   arxiv: 1904.06052
+  venue: Scientometrics
+  volume: 121
+  issue: 2
+  pages: 1213-1228
+  doi: 10.1007/s11192-019-03217-6
 
 - authors: Di Iorio A, Peroni S, Poggi F
   year: 2019
   title: "Open data to evaluate academic researchers: an experiment with the Italian Scientific Habilitation"
-  venue: "(To appear) Proceedings of the 17th International Conference on Scientometrics and Informetrics (ISSI 2019)"
+  venue: "Proceedings of the 17th International Conference on Scientometrics and Informetrics (ISSI 2019)"
   oa: https://arxiv.org/pdf/1902.03287
   arxiv: 1902.03287
 
 - authors: Heibi I, Peroni S, Shotton D
   year: 2019
-  title: Crowdsourcing open citations with CROCI - An analysis of the current status of open citations, and a proposal
-  venue: "(To appear) Proceedings of the 17th International Conference on Scientometrics and Informetrics (ISSI 2019)"
+  title: "Crowdsourcing open citations with CROCI - An analysis of the current status of open citations, and a proposal"
+  venue: "Proceedings of the 17th International Conference on Scientometrics and Informetrics (ISSI 2019)"
   oa: https://arxiv.org/pdf/1902.02534
   arxiv: 1902.02534
 
 - authors: Nuzzolese AG, Ciancarini P, Gangemi A, Peroni S, Poggi F, Presutti V
   year: 2019
-  title: Do altmetrics work for assessing research quality?
-  venue: Scientometrics
+  title: "Do altmetrics work for assessing research quality?"
+  venue: "Scientometrics"
   volume: 118
   issue: 2
   pages: 539–562
   doi: 10.1007/s11192-018-2988-z
   oa: https://arxiv.org/pdf/1812.11813
   arxiv: 1812.11813
-
-- authors: Peroni S, Ciancarini P, Gangemi A, Nuzzolese AG, Poggi F, Presutti V
-  year: 2019
-  title: "The practice of self-citations: a longitudinal study"
-  oa: https://arxiv.org/pdf/1903.06142
-  arxiv: 1903.06142
 
 - authors: Di Iorio A, Limpens F, Peroni S, Rotondi A, Tsatsaronis G, Achtsivassilis J
   year: 2018
