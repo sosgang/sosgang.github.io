@@ -1,8 +1,20 @@
+- name: Erik Boetto
+  affiliation: Department of Biomedical and Neuromotor Sciences, University of Bologna, Bologna, Italy
+
 - name: Chao Che
   affiliation: Key Laboratory of Advanced Design and Intelligent Computing, Ministry of Education, Dalian University, Dalian, China
 
 - name: Paolo Ciancarini
   affiliation: Department of Computer Science and Engineering, University of Bologna, Bologna, Italy
+
+- name: Maria Pia Fantini
+  affiliation: Department of Biomedical and Neuromotor Sciences, University of Bologna, Bologna, Italy
+
+- name: Davide Golinelli
+  affiliation: Department of Biomedical and Neuromotor Sciences, University of Bologna, Bologna, Italy
+
+- name: Manfredi Greco
+  affiliation: Department of Biomedical and Neuromotor Sciences, University of Bologna, Bologna, Italy
 
 - name: Freddy Limpens
   affiliation: Limpica Labs
@@ -11,7 +23,10 @@
   affiliation: Digital Humanities Advanced Research Centre, Department of Classical Philology and Italian Studies, University of Bologna, Bologna, Italy
 
 - name: Valentina Presutti
-  affiliation: Semantic Technology Laboratory, Institute of Cognitive Sciences and Technologies, National Research Council, Rome, Italy
+  affiliation: Department of Modern Languages, Literatures, and Cultures, University of Bologna, Bologna, Italy
+
+- name: Flavia Rallo
+  affiliation: Department of Biomedical and Neuromotor Sciences, University of Bologna, Bologna, Italy
 
 - name: Agata Rotondi
 
