@@ -43,10 +43,10 @@
 
 - name: Francesco Poggi
   orcid: 0000-0001-6577-5606
-  web: https://www.unibo.it/sitoweb/francesco.poggi5/en
-  affiliation: Department of Computer Science and Engineering, University of Bologna, Bologna, Italy
-  affiliation_url: http://www.cse.unibo.it/en
-  bio: Francesco Poggi holds a Ph.D. degree in Computer Science and he is Research Fellow at the University of Bologna. His research interests include reflective enterprise software architectures, information visualization, Semantic Web technologies, markup languages for complex documents, automatic processes of analysis and segmentation of documents.
+  web: http://personale.unimore.it/rubrica/dettaglio/fpoggi
+  affiliation: Department of Communication and Economics, University of Modena and Reggio Emilia, Reggio Emilia, Italy
+  affiliation_url: http://www.international.unimore.it/DCE.html
+  bio: Francesco Poggi holds a Ph.D. degree in Computer Science and he is Assistant Professor at the University of Modena and Reggio Emilia. His research interests include reflective enterprise software architectures, information visualization, Semantic Web technologies, markup languages for complex documents, automatic processes of analysis and segmentation of documents.
   github: fpoggi
-  email: francesco.poggi5@unibo.it
+  email: francesco.poggi@unimore.it
   pic: assets/img/fp.jpg
