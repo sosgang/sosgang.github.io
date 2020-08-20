@@ -11,8 +11,8 @@
 - name: Ivan Heibi
   orcid: 0000-0001-5366-5194
   web: https://www.unibo.it/sitoweb/ivan.heibi2/en
-  affiliation: Digital Humanities Advanced Research Centre, Department of Classical Philology and Italian Studies, University of Bologna, Bologna, Italy
-  affiliation_url: https://dharc.unibo.it
+  affiliation: Research Centre for Open Scholarly Metadata & Digital Humanities Advanced Research Centre, Department of Classical Philology and Italian Studies, University of Bologna, Bologna, Italy
+  affiliation_url: https://openscholarlymetadata.org
   bio: Ivan Heibi is a Ph.D. candidate in Digital Humanities. The main topic of his studies is the application of Semantic Publishing technologies in the Science of Science research domain. His work focuses on Semantic Web (Linked Data) technologies, Semantic publishing and open citations.
   github: ivanhb
   twitter: ivanHeiB
@@ -33,8 +33,8 @@
 - name: Silvio Peroni
   orcid: 0000-0003-0530-4305
   web: https://www.unibo.it/sitoweb/silvio.peroni/en
-  affiliation: Digital Humanities Advanced Research Centre, Department of Classical Philology and Italian Studies, University of Bologna, Bologna, Italy
-  affiliation_url: https://dharc.unibo.it
+  affiliation: Research Centre for Open Scholarly Metadata & Digital Humanities Advanced Research Centre, Department of Classical Philology and Italian Studies, University of Bologna, Bologna, Italy
+  affiliation_url: https://openscholarlymetadata.org
   bio: Silvio Peroni holds a Ph.D. degree in Computer Science and he is Assistant Professor at the University of Bologna. He is an expert in document markup and semantic descriptions of bibliographic entities using OWL ontologies. He is one of the main developers of SPAR Ontologies (http://www.sparontologies.net), he is Director of OpenCitations (http://opencitations.net), and founding member of the Initiative for Open Citations (I4OC, https://i4oc.org).
   github: essepuntato
   twitter: essepuntato
