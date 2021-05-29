@@ -1,9 +1,19 @@
+- name: Federica Bologna
+  orcid: 0000-0002-3845-8266
+  affiliation: Department of Classical Philology and Italian Studies, University of Bologna, Bologna, Italy
+  affiliation_url: https://ficlit.unibo.it/it
+  bio: Federica Bologna is an incoming PhD candidate in Information Science at Cornell University, where she will be advised by Matt Wilkens. She is currently a Research Assistant at the University of Bologna, where she analyzes the data of the National Scientific Qualification with the SoS gang. Her research focuses on using text mining techniques to study social and cultural problems. Her interests include NLP, Computational Social Science and Cultural Analytics.
+  github: federicabologna
+  twitter: FedericaBologna
+  email: fb265@cornell.edu
+  pic: assets/img/fb.jpg
+
 - name: Angelo Di Iorio
   orcid: 0000-0002-6893-7452
   web: https://www.unibo.it/sitoweb/angelo.diiorio/en
   affiliation: Department of Computer Science and Engineering, University of Bologna, Bologna, Italy
   affiliation_url: http://www.cse.unibo.it/en
-  bio: Angelo Di Iorio holds a Ph.D. degree in Computer Science and he is Assistant Professor at the University of Bologna. He is expert of markup languages and document engineering, in particular his research is focused on design patterns for digital documents. His interests also include semantic publishing, versioning and diff-ing techniques, collaborative editing, Web technologies, formatting and pagination.
+  bio: Angelo Di Iorio holds a Ph.D. degree in Computer Science and he is Associate Professor at the University of Bologna. He is expert of markup languages and document engineering, in particular his research is focused on design patterns for digital documents. His interests also include semantic publishing, versioning and diff-ing techniques, collaborative editing, Web technologies, formatting and pagination.
   github: angelobo
   email: angelo.diiorio@unibo.it
   pic: assets/img/adi.png
@@ -11,7 +21,7 @@
 - name: Ivan Heibi
   orcid: 0000-0001-5366-5194
   web: https://www.unibo.it/sitoweb/ivan.heibi2/en
-  affiliation: Research Centre for Open Scholarly Metadata & Digital Humanities Advanced Research Centre, Department of Classical Philology and Italian Studies, University of Bologna, Bologna, Italy
+  affiliation: Research Centre for Open Scholarly Metadata, Department of Classical Philology and Italian Studies, University of Bologna, Bologna, Italy
   affiliation_url: https://openscholarlymetadata.org
   bio: Ivan Heibi is a Ph.D. candidate in Digital Humanities. The main topic of his studies is the application of Semantic Publishing technologies in the Science of Science research domain. His work focuses on Semantic Web (Linked Data) technologies, Semantic publishing and open citations.
   github: ivanhb
@@ -33,9 +43,9 @@
 - name: Silvio Peroni
   orcid: 0000-0003-0530-4305
   web: https://www.unibo.it/sitoweb/silvio.peroni/en
-  affiliation: Research Centre for Open Scholarly Metadata & Digital Humanities Advanced Research Centre, Department of Classical Philology and Italian Studies, University of Bologna, Bologna, Italy
+  affiliation: Research Centre for Open Scholarly Metadata, Department of Classical Philology and Italian Studies, University of Bologna, Bologna, Italy
   affiliation_url: https://openscholarlymetadata.org
-  bio: Silvio Peroni holds a Ph.D. degree in Computer Science and he is Assistant Professor at the University of Bologna. He is an expert in document markup and semantic descriptions of bibliographic entities using OWL ontologies. He is one of the main developers of SPAR Ontologies (http://www.sparontologies.net), he is Director of OpenCitations (http://opencitations.net), and founding member of the Initiative for Open Citations (I4OC, https://i4oc.org).
+  bio: Silvio Peroni holds a Ph.D. degree in Computer Science and he is Associate Professor at the University of Bologna. He is an expert in document markup and semantic descriptions of bibliographic entities using OWL ontologies. He is one of the main developers of SPAR Ontologies (http://www.sparontologies.net), he is Director of OpenCitations (http://opencitations.net), and founding member of the Initiative for Open Citations (I4OC, https://i4oc.org) and of the Initiative for Open Abstracts (I4OA, https://i4oa.org).
   github: essepuntato
   twitter: essepuntato
   email: silvio.peroni@unibo.it
